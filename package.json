@@ -1,0 +1,21 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "vuepress build source",
+    "dev": "vuepress dev source"
+  },
+  "dependencies": {
+    "vuepress": "^1.0.0-alpha.1",
+    "vuepress-theme-egoist": "^1.1.1",
+    "limax": "^1.6.0",
+    "markdown-it-footnote": "^3.0.1",
+    "medium-zoom": "^0.4.0",
+    "nprogress": "^0.2.0",
+    "scifi": "^0.1.4",
+    "v-tippy": "^2.0.0",
+    "vue-feather-icons": "^4.7.0"
+  }
+}
