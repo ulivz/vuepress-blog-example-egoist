@@ -1,3 +1,2 @@
-node_modules
-.peco/data
-.peco/website
+dist
+.temp

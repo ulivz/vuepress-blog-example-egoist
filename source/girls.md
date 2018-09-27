@@ -150,7 +150,7 @@ export default {
   computed: {
     orderedWaifus() {
       const cvStats = {}
-      const waifus = this.$page.attributes.waifus
+      const waifus = this.$page.frontmatter.waifus
       waifus.forEach(waifu => {
         cvStats[waifu.cv] = cvStats[waifu.cv] || []
         cvStats[waifu.cv].push(waifu)

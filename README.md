@@ -1,5 +1,4 @@
 # EGOIST's blog
 
-This is my blog powered by [Peco](https://github.com/egojump/peco).
+This is the world's first blog website built with VuePress 1.0.
 
-Peco is a static website generator that aims to be as simple as Hexo but also takes advantage of the modern front-end technology like Webpack, Vue, SSG (server-side generated).
