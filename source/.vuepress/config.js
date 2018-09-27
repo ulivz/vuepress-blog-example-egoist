@@ -17,7 +17,7 @@ module.exports = {
       { text: 'girls', link: '/girls.html' },
       { text: 'donate', link: '/donate.html' },
       { text: 'tag', link: '/tag/' },
-      { text: 'category', link: '/categorie/' },
+      { text: 'category', link: '/category/' },
     ]
   },
   markdown: {
