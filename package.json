@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "vuepress": "^1.0.0-alpha.8",
-    "vuepress-theme-egoist": "^1.4.0",
+    "vuepress-theme-egoist": "^1.4.1",
     "limax": "^1.6.0",
     "markdown-it-footnote": "^3.0.1",
     "medium-zoom": "^0.4.0",
